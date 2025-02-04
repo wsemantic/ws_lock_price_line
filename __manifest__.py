@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "\ws_lock_price_line",
+    'name': "ws_lock_price_line",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
